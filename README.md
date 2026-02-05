@@ -15,7 +15,7 @@ Interactive Power BI dashboard designed to analyze sales, profit, and profitabil
 - CSV data source
 
 ## 📊 Dashboard Preview
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](images/sales-performance-overview.png)
 
 ## 📁 Deliverables
 - Power BI (.pbix) report
