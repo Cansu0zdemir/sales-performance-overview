@@ -1,0 +1,47 @@
+OrderDate,Region,Category,SubCategory,Product,Sales,Profit,Quantity
+2024-01-05,Europe,Technology,Phones,iPhone 13,1200,250,2
+2024-01-08,Europe,Technology,Laptops,Dell XPS 13,1800,320,1
+2024-01-12,US,Furniture,Chairs,Office Chair,450,-30,1
+2024-01-15,Asia,Office Supplies,Paper,A4 Paper Pack,80,20,10
+2024-02-02,Europe,Technology,Phones,Samsung S22,950,180,1
+2024-02-06,US,Technology,Laptops,MacBook Air,1600,300,1
+2024-02-10,Asia,Furniture,Tables,Meeting Table,900,120,1
+2024-02-14,Europe,Office Supplies,Binders,Lever Arch File,120,35,6
+2024-03-01,US,Technology,Accessories,Wireless Mouse,60,15,4
+2024-03-05,Asia,Technology,Accessories,USB-C Hub,75,10,3
+2024-03-09,Europe,Furniture,Chairs,Ergonomic Chair,650,90,1
+2024-03-12,US,Office Supplies,Paper,Printer Paper,100,25,8
+2024-03-18,Asia,Technology,Phones,Xiaomi Redmi,300,40,2
+2024-04-02,Europe,Technology,Laptops,HP EliteBook,1400,210,1
+2024-04-06,US,Furniture,Storage,Filing Cabinet,700,110,1
+2024-04-10,Asia,Office Supplies,Writing,Pens Pack,45,12,5
+2024-04-15,Europe,Technology,Accessories,Keyboard,85,18,2
+2024-05-01,US,Technology,Phones,iPhone 14,1350,260,1
+2024-05-04,Asia,Furniture,Chairs,Visitor Chair,220,-15,2
+2024-05-08,Europe,Office Supplies,Paper,Notebook,60,14,4
+2024-05-12,US,Technology,Laptops,Lenovo ThinkPad,1550,290,1
+2024-05-18,Asia,Technology,Accessories,Webcam,95,22,1
+2024-06-01,Europe,Furniture,Tables,Standing Desk,1100,180,1
+2024-06-05,US,Office Supplies,Storage,Document Box,70,10,3
+2024-06-10,Asia,Technology,Phones,OnePlus Nord,520,75,1
+"2024-06-15,Europe,Technology,Accessories,Monitor 27"",400,60,1"
+2024-06-20,US,Furniture,Chairs,Mesh Chair,480,55,1
+2024-07-02,Asia,Office Supplies,Paper,Sticky Notes,35,8,6
+2024-07-06,Europe,Technology,Laptops,Asus ZenBook,1300,200,1
+2024-07-10,US,Technology,Accessories,Bluetooth Speaker,150,35,1
+2024-07-15,Asia,Furniture,Storage,Shelf Unit,600,90,1
+2024-08-01,Europe,Office Supplies,Writing,Markers Set,55,12,3
+2024-08-05,US,Technology,Phones,Google Pixel,900,160,1
+2024-08-10,Asia,Technology,Laptops,Acer Aspire,1100,140,1
+2024-09-02,Europe,Furniture,Chairs,Conference Chair,520,70,1
+2024-09-06,US,Office Supplies,Paper,A3 Paper Pack,130,30,5
+2024-09-10,Asia,Technology,Accessories,Headphones,210,45,1
+2024-10-01,Europe,Technology,Phones,iPhone SE,700,95,1
+2024-10-05,US,Furniture,Tables,Coffee Table,350,40,1
+2024-10-10,Asia,Office Supplies,Writing,Highlighters,40,9,4
+2024-11-02,Europe,Technology,Laptops,Surface Laptop,1650,310,1
+2024-11-06,US,Technology,Accessories,Power Bank,65,14,2
+2024-11-10,Asia,Furniture,Chairs,Stool,180,-10,2
+2024-12-01,Europe,Office Supplies,Storage,Drawer Unit,500,85,1
+2024-12-05,US,Technology,Phones,iPhone 15,1500,330,1
+2024-12-10,Asia,Technology,Accessories,Smart Watch,420,90,1
